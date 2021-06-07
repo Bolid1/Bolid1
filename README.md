@@ -2,7 +2,6 @@
 
 ## I'm a Husband and Developer!
 
-- 💰 I'm currently working on a [amoCRM][amoCRM-site]!
 - 📈 I'm currently investing in stocks
 - 👨‍🎓 I'm currently deepening knowledge in stack below
 - 🏃‍♂️ My goal on 2020 is to create microservice architecture application
